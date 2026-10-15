@@ -1,0 +1,18 @@
+JAYDEN MAKITA 4K — PORTFOLIO (version avec vos photos et votre logo)
+
+CONTENU
+- index.html : le site complet. Photos, logo et styles sont intégrés dans ce seul fichier, aucune autre ressource à envoyer.
+
+METTRE LE SITE EN LIGNE (le plus simple : Netlify)
+1. Décompressez ce ZIP.
+2. Ouvrez https://app.netlify.com/drop
+3. Glissez le dossier contenant index.html dans la zone de dépôt.
+4. Netlify donne une adresse en .netlify.app. Ouvrez-la sur votre téléphone et testez la galerie, FR / EN et le formulaire.
+
+SUR VOTRE PROPRE SITE OU HÉBERGEUR
+- Envoyez index.html à la racine du dossier public (souvent « public_html » ou « www »).
+- Pour garder votre site actuel, mettez le fichier dans un sous-dossier (ex. /portfolio/index.html) : l'adresse sera votresite.com/portfolio/
+
+À SAVOIR
+- Le formulaire ouvre l'application e-mail du visiteur avec le message prérempli (mailto). Pour recevoir les messages directement, il faut brancher un service de formulaire.
+- Le texte « jayden | photographer cy » n'est pas cliquable : remplacez-le par l'URL de votre profil si vous le souhaitez.
