@@ -15,4 +15,4 @@ SUR VOTRE PROPRE SITE OU HÉBERGEUR
 
 À SAVOIR
 - Le formulaire ouvre l'application e-mail du visiteur avec le message prérempli (mailto). Pour recevoir les messages directement, il faut brancher un service de formulaire.
-- Le texte « jayden | photographer cy » n'est pas cliquable : remplacez-le par l'URL de votre profil si vous le souhaitez.
+- Le lien Instagram « @jayden_design_4k » ouvre votre profil dans un nouvel onglet.
